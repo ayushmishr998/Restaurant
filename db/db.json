@@ -1,0 +1,58 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5"
+    },
+    {
+      "id": 2,
+      "name": "Mc Donald",
+      "address": "Delhi",
+      "rating": "4.0"
+    },
+    {
+      "id": 3,
+      "name": "Dominoz",
+      "address": "Raipur",
+      "rating": "4.7"
+    },
+    {
+      "name": "KFC",
+      "rating": "3.4",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Nagpur",
+      "rating": "4.8"
+    },
+    {
+      "name": "Paja da pind",
+      "rating": "4.2",
+      "address": "Telibandha",
+      "id": 6
+    },
+    {
+      "name": "Minerwa",
+      "rating": "3.8",
+      "address": "Shankar nagar",
+      "id": 7
+    },
+    {
+      "name": "Barbie quanation",
+      "rating": "5.0",
+      "address": "Colors Mall",
+      "id": 8
+    },
+    {
+      "name": "Fizzy",
+      "rating": "3.0",
+      "address": "Raipur",
+      "id": 9
+    }
+  ]
+}
